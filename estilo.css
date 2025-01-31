@@ -1,0 +1,11 @@
+h1 {
+    background-color: papayawhip;
+    display: inline;
+    color: blue;
+    border-style: dashed;
+}
+li {
+    text-decoration: underline;
+    font-size: 25px;
+    color: red;
+}
